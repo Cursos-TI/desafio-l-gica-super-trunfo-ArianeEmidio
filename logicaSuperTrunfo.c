@@ -1,4 +1,6 @@
 #include <stdio.h>
+// Desafio Super Trunfo 
+// Tema 2 - Comparação das Cartas
 
 int main() {
     // Dados da Carta 1
