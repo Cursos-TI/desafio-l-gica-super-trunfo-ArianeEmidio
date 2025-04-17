@@ -12,7 +12,6 @@ gcc super_trunfo.c -o super_trunfo
 ./super_trunfo
 ```
 
-> Substitua `super_trunfo.c` pelo nome do seu arquivo, se for diferente.
 
 ## 🧩 Atributos das Cartas
 
